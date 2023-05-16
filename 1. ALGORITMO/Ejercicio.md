@@ -39,6 +39,6 @@
 3- Asignar: "Precio inicial: $2000.00"
 4- Asignar: "Precio actual: $3000.00"
 5- Proceso: "Precio actual - precio inicial= $1000.00"
-6- Proceso: "Precio actual x 100 / precio inicial= 150%"
-7- Mostrar: "El precio del producto incremento en un 150%"
+6- Proceso: "Precio actual x 100 / precio inicial= 150%, porcentaje de precio actual 150% - porcentaje de precio inicial 100%= 50%"
+7- Mostrar: "El precio del producto incremento en un 50%"
 8- Fin.
